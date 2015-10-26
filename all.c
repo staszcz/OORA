@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
- 
+
 #define SIZE 512
+
+#define false 0
+#define true 1
 
 #include <sys/time.h>
 #include <time.h>
